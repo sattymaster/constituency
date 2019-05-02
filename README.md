@@ -16,3 +16,5 @@ To run this project, install tkinter in your respective python version
 $ cd ../constituency
 $ install tkinter
 ```
+## License
+  GNU
